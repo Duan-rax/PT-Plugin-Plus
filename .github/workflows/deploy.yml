@@ -1,5 +1,6 @@
 name: Publish to Chrome Web Store
 # 创建新 release 时自动发布到 Chrome Web Store
+
 on:
   release:
     types:
